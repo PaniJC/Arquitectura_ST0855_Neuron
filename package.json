@@ -1,0 +1,31 @@
+{
+  "name": "appneuron",
+  "version": "1.0.0",
+  "description": "Aplicaciòn para arquitectura de software.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Araque, Jose Duran, Elmer Marin,Juan Camilo Paniagua Alvarez",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "jwt-simple": "^0.5.6",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.11",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaniJC/Arquitectura_ST0855_Neuron.git#arquitectura_st0855_neuron"
+  },
+  "bugs": {
+    "url": "https://github.com/PaniJC/Arquitectura_ST0855_Neuron/issues"
+  },
+  "homepage": "https://github.com/PaniJC/Arquitectura_ST0855_Neuron/tree/arquitectura_st0855_neuron#readme"
+}
